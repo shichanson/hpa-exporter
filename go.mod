@@ -5,6 +5,7 @@ go 1.15
 replace (
 	github.com/shichanson/hpa-exporter/conf => ./conf
 	github.com/shichanson/hpa-exporter/pkg/setting => ./pkg/setting
+	github.com/shichanson/hpa-exporter/metrics => ./metrics
 
 )
 
